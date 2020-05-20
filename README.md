@@ -6,7 +6,7 @@ This app was built in order to get practice with servers, as well as writing rou
 
 ## Installation
 
-To use this application, follow the link on the GitHub repository page. Otherwise, you can [click here](https://secure-bastion-47747.herokuapp.com/). 
+To use this application, follow the link on the GitHub repository page. Otherwise, you can [click here](https://note-taker-yuri.herokuapp.com). 
 
 To run and develop the code for yourself, you can use an IDE such as [VS Code](https://code.visualstudio.com/). 
 
